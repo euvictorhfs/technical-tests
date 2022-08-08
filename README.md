@@ -1,2 +1,7 @@
-# technical-tests
-Aprendizagem contínua com refinamento dos testes técnicos realizados em recrutamentos e seleções.
+# Testes técnicos
+Índice de testes a serem realizados ou concluídos em processos de recrutamento e seleção.
+
+
+
+* Infinite Coin
+* Data Analysis
